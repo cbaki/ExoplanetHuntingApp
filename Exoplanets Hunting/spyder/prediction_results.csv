@@ -1,0 +1,6 @@
+prediction,confidence,probability_planet,probability_fp,success,id
+CONFIRMED PLANET,0.64,0.64,0.36,True,0
+FALSE POSITIVE,0.445,0.445,0.5549999999999999,True,1
+CONFIRMED PLANET,0.875,0.875,0.125,True,2
+FALSE POSITIVE,0.45,0.45,0.55,True,3
+CONFIRMED PLANET,0.6,0.6,0.4,True,4
