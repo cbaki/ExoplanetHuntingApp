@@ -1,4 +1,4 @@
-Proje, NASA’nın Kepler, TESS ve K2 teleskoplarından elde edilen yıldız parlaklık verilerini analiz ederek, bu yıldızların çevresinde dolanan olası gezegenleri tespit etmeyi amaçlamaktadır. Yıldız ışıklarındaki kırılma ve parlaklık değişimlerini inceleyen bir yapay zeka modeli geliştirilmiştir. Bu veriler Random Forest algoritması ile işlenmiş ve model %92 doğruluk oranı elde etmiştir.
+Proje, NASA’nın Kepler, TESS ve K2 teleskoplarından elde edilen yıldız parlaklık verilerini analiz ederek, bu yıldızların çevresinde dolanan olası gezegenleri tespit etmeyi amaçlamaktadır. Yıldız ışıklarındaki kırılma ve parlaklık değişimlerini inceleyen bir yapay zeka modeli geliştirilmiştir. Bu veriler Random Forest algoritması ile işlenmiş ve model %99 doğruluk oranı elde etmiştir.
 
 Model, yıldızların ışık değişimlerini değerlendirerek bir gezegenin var olup olmadığını başarıyla tahmin edebilmektedir.
 
